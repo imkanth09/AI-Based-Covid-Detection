@@ -8,4 +8,4 @@ Pillow==5.1.0
 requests==2.19.1
 scipy==1.0.1
 tensorboard==1.8.0
-tensorflow==2.0
+tensorflow==2.0.3
